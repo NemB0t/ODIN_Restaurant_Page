@@ -1,0 +1,24 @@
+{
+  "name": "odin_restaurant_page",
+  "version": "1.0.0",
+  "description": "This is my submission for the restaurant page exercise of the ODIN Project.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemB0t/ODIN_Restaurant_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemB0t/ODIN_Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/NemB0t/ODIN_Restaurant_Page#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
